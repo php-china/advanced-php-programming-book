@@ -1,1 +1,1 @@
-# :blue_book: 《深入理解PHP》
+# 《深入理解PHP》
