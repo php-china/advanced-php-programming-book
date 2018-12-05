@@ -4,6 +4,8 @@
 
 * [PHP介绍](introduction/README.md)
 
+---
+
 ## 基础知识
 
 * [安装部署](install_guide/README.md)
@@ -13,11 +15,17 @@
 * [语言参考](language_reference/README.md)
   * [基本语法](language_reference/basic.md)
 
+---
+
 ## 常用扩展
 
 ## 应用开发
 
-* [设计模式](design_pattern/README.md)
+* [HTTP应用](application/http/README.md)
+* [Websocket应用](application/websocket/README.md)
+* [TCP应用](application/tcp/README.md)
+* [设计模式](application/design_pattern/README.md)
+* [数据结构与算法](application/data_structure_and_algorithm/README.md)
 
 ## 常用框架
 
