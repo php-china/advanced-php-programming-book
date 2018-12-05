@@ -23,11 +23,25 @@
 
 * [Spiral Framework](frameworks/spiral_framework/README.md)
 
+## 工程化
+
 ## 内核分析
 
 ## 扩展开发
 
 ## 最佳实践
+
+* [应用配置](best_practice/config/README.md)
+  * [使用环境变量配置](best_practice/config/env.md)
+  * [使用命令行配置](best_practice/config/console.md)
+  * [使用文件配置](best_practice/config/file.md)
+  * [使用分布式配置](best_practice/config/distributed.md)
+
+* [消息队列](best_practice/msg_queue/README.md)
+
+* [性能分析和调优](best_practice/application_performance/README.md)
+
+* [安全与防范](best_practice/security/README.md)
 
 ## 推荐资源
 
