@@ -22,6 +22,7 @@
 ## 常用扩展
 
 * [SPL](extensions/spl/README.md)
+* [Swoole](extensions/swoole/README.md)
 * [yaf](extensions/yaf/README.md)
 * [yar](extensions/yar/README.md)
 
@@ -41,6 +42,7 @@
 * [Laravel](frameworks/laravel/README.md)
 * [Symfony](frameworks/symfony/README.md)
 * [RoadRunner](frameworks/roadrunner/README.md)
+* [ReactPHP](frameworks/reactphp/README.md)
 
 ---
 
@@ -78,6 +80,7 @@
 * [消息队列](best_practice/msg_queue/README.md)
 * [性能分析和调优](best_practice/application_performance/README.md)
 * [安全与防范](best_practice/security/README.md)
+* [异步](best_)
 
 ---
 
