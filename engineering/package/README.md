@@ -16,6 +16,6 @@
 
 ## 包管理器
 
-PHP社区的方案，Composer
+PHP社区的方案，比较统一，基本上遵循PSR-2规范，Composer
 Python-PIP
-前端模块化，前端开发对模块化的需求强烈，社区出现了很多解决方案，直到最近几年才有了标准化的模块化规范，ES2015中已经包含ES Module这个规范，不过规范的实现涉及多个方面，推进的进度缓慢，具体可以查看[前端模块化](https://segmentfault.com/a/1190000016280358)和[为何 ES Module 如此姗姗来迟](https://segmentfault.com/a/1190000004940294#articleHeader5)
+Javascript模块化，前端开发对模块化的需求强烈，社区出现了众多的解决方案，可谓五花八门，直到最近几年才有了标准化的模块化规范，ES2015中已经包含ES Module这个规范，不过规范的实现涉及多个方面，推进的进度缓慢，具体可以查看[前端模块化](https://segmentfault.com/a/1190000016280358)和[为何 ES Module 如此姗姗来迟](https://segmentfault.com/a/1190000004940294#articleHeader5)
