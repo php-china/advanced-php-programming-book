@@ -49,7 +49,9 @@
 ## 工程化
 
 * [工程化概述](engineering/introduction/README.md)
-* [包管理器](engineering/package/README.md)
+* [模块化](engineering/package/README.md)
+  * [Composer](engineering/package/composer.md)
+  * [pecl](engineering/package/pecl.md)
 * [静态代码分析](engineering/static_analysis/README.md)
   * [PHPStan](engineering/static_analysis/phpstan.md)
 
