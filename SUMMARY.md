@@ -16,6 +16,7 @@
   * [基本语法](basic/language_reference/basic.md)
 * [设计模式](basic/design_pattern/README.md)
 * [数据结构与算法](basic/data_structure_and_algorithm/README.md)
+  * [排序算法](basic/data_structure_and_algorithm/sort.md)
 
 ---
 
@@ -31,6 +32,10 @@
 ## 应用开发
 
 * [HTTP应用](application/http/README.md)
+  * [HTTP Server](application/http/server.md)
+  * [HTTP Client](application/http/client.md)
+  * [RESTful应用](application/http/restful.md)
+  * [HTTP2应用](application/http/http2.md)
 * [Websocket应用](application/websocket/README.md)
 * [TCP应用](application/tcp/README.md)
 
