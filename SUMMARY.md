@@ -94,6 +94,8 @@
 * [安全与防范](best_practice/security/README.md)
 * [异步](best_practice/async/README.md)
 * [通知报警](best_practice/alert_notification/README.md)
+* [数据库优化](best_practice/database_optimization/README.md)
+  * [Mysql](best_practice/database_optimization/mysql.md)
 
 ---
 
