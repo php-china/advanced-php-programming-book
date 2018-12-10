@@ -10,4 +10,8 @@
 
 - [深入理解PHP内核](http://www.php-internals.com/)
 
-PHP内核分析相关。
+PHP内核分析最早的中文资料。
+
+- [胖胖的空间](http://www.phppan.com/)
+
+涉及PHP内核，系统架构等方面的博客

@@ -75,10 +75,15 @@
 
 ## 扩展开发
 
+* [开发一个最简单的扩展](extension/develop/README.md)
+
 ---
 
 ## 最佳实践
 
+* [系统架构](best_practice/system_design/README.md)
+  * [高并发系统](best_practice/system_design/high_performance.md)
+  * [高可用系统](best_practice/system_design/high_availability.md)
 * [应用配置](best_practice/config/README.md)
   * [使用环境变量配置](best_practice/config/env.md)
   * [使用命令行配置](best_practice/config/console.md)
@@ -88,6 +93,7 @@
 * [性能分析和调优](best_practice/application_performance/README.md)
 * [安全与防范](best_practice/security/README.md)
 * [异步](best_practice/async/README.md)
+* [通知报警](best_practice/alert_notification/README.md)
 
 ---
 
