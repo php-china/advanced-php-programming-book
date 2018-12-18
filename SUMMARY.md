@@ -15,9 +15,11 @@
   * [Apache安装与配置](basic/install_guide/apache.md)
 * [语言参考](basic/language_reference/README.md)
   * [基本语法](basic/language_reference/basic.md)
+  * [正则表达式](basic/language_reference/regex.md)
 * [设计模式](basic/design_pattern/README.md)
 * [数据结构与算法](basic/data_structure_and_algorithm/README.md)
   * [排序算法](basic/data_structure_and_algorithm/sort.md)
+  * [查找算法](basic/data_structure_and_algorithm/search.md)
 
 ---
 
@@ -67,6 +69,7 @@
 
 ## 内核分析
 
+* [运行模式](internal/run_mode/README.md)
 * [整体框架](internal/frameworks/README.md)
 * [生命周期](internal/life_cycle/README.md)
 * [变量实现](internal/variable/README.md)
