@@ -9,9 +9,10 @@
 ## 基础知识
 
 * [安装部署](basic/install_guide/README.md)
-  * [Linux](basic/install_guide/linux_install.md)
-  * [Windows](basic/install_guide/windows_install.md)
+  * [Linux环境](basic/install_guide/linux_install.md)
+  * [Windows环境](basic/install_guide/windows_install.md)
   * [Docker](basic/install_guide/docker_install.md)
+  * [Apache安装与配置](basic/install_guide/apache.md)
 * [语言参考](basic/language_reference/README.md)
   * [基本语法](basic/language_reference/basic.md)
 * [设计模式](basic/design_pattern/README.md)
@@ -23,6 +24,8 @@
 ## 常用扩展
 
 * [SPL](extensions/spl/README.md)
+* [apcu](extensions/apcu/README.md)
+* [Zend_Opcache](extensions/opcache/README.md)
 * [Swoole](extensions/swoole/README.md)
 * [yaf](extensions/yaf/README.md)
 * [yar](extensions/yar/README.md)
