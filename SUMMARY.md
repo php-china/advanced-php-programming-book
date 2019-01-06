@@ -32,6 +32,8 @@
   * [Swoole使用](extensions/swoole/usage.md)
 * [yaf](extensions/yaf/README.md)
 * [yar](extensions/yar/README.md)
+* [phalcon](extensions/phalcon/README.md)
+  * [Zephir](extensions/phalcon/zephir.md)）
 
 ---
 
