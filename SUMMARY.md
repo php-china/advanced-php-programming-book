@@ -73,10 +73,6 @@
 ---
 
 ## 工程实践
-
-* [系统架构](practice/system_design/README.md)
-  * [高并发系统](practice/system_design/high_performance.md)
-  * [高可用系统](practice/system_design/high_availability.md)
 * [应用配置](practice/config/README.md)
   * [环境变量配置](practice/config/env.md)
   * [命令行配置](practice/config/console.md)
@@ -84,12 +80,16 @@
   * [分布式配置](practice/config/distributed.md)
 * [消息队列](practice/msg_queue/README.md)
   * [Kafka](practice/msg_queue/kafka.md)
-* [性能分析和调优](practice/application_performance/README.md)
+* [系统架构](practice/system_design/README.md)
+  * [高并发系统](practice/system_design/high_performance.md)
+  * [高可用系统](practice/system_design/high_availability.md)
+* [性能优化](practice/performance/README.md)
 * [安全与防范](practice/security/README.md)
 * [异步](best_practice/async/README.md)
 * [通知报警](best_practice/alert_notification/README.md)
 * [数据库优化](best_practice/database_optimization/README.md)
   * [Mysql](best_practice/database_optimization/mysql.md)
+* [故障处理](best_practice/handle_error/README.md)
 
 ---
 
